@@ -1,9 +1,5 @@
 # Unit 19 PWA Homework: Text Editor (Modified Edition)
 
-## Before anything else
-
-You can use a clone of this repo for your homework submission, but do NOT include this README file in your submission! .The Assets folder in the repo root is for this README file only; you don't to submit it.
-
 ## Instructions
 
 The web application from which the PWA will be created has already been built for you (and was intended to be). The main goal of this homework assignment is to properly set up and configure the web app so it can function as a PWA.
